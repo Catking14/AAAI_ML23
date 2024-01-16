@@ -35,8 +35,9 @@ $$(\text{method to select candidates to be replaced}) / (\text{method to find al
 ## Setup
 #### Phase 1
 
-For attacking models in main branch, we built those models on *Kaggle*. The information about our *Kaggle* enviroment and some brief guides is on 
-[https://www.kaggle.com/datasets/sheridanm551/fast-using-lstm-model-steps]( https://www.kaggle.com/datasets/sheridanm551/fast-using-lstm-model-steps).
+For attacking models in main branch, we built those models on *Kaggle*. The information about our *Kaggle* enviroment and some brief guides is on
+[https://www.kaggle.com/code/sheridanm551/how-to-use-lstm-classifier-model](https://www.kaggle.com/code/sheridanm551/how-to-use-lstm-classifier-model)
+and its dataset is  [https://www.kaggle.com/datasets/sheridanm551/fast-using-lstm-model-steps]( https://www.kaggle.com/datasets/sheridanm551/fast-using-lstm-model-steps).
 
 By using the environment and datasets we've built on *Kaggle*, both models should able to execute by running the `.ipynb` file.
 
